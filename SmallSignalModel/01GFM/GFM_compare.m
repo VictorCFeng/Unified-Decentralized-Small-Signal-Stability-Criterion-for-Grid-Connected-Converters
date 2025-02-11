@@ -1,4 +1,3 @@
-% 定义符号变量
 clear;clc;
 %% Network Base Values 
 Sb = 50*10^3;                          % Base apparent power [VA]

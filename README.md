@@ -16,7 +16,7 @@ This folder contains files for theoretical derivation, frequency scan simulation
 - Run the frequency scan script `dqscan.m` first to obtain the actual impedance model of the inverter.
 - Then, execute `xxx_compare.m` to compare the results and validate the small-signal model.
 
-### 3. DW Calculation Functions (`DWComputation`)
+### 3. DW Calculation Functions (`DWShell`)
 This folder includes functions for computing the DW shell and numerical range using sampling and rotation methods.
 
 - The computation utilizes parallel processing (`parfor`). If parallel execution is not supported, replace `parfor` with `for`.

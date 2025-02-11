@@ -1,4 +1,4 @@
-# Unified Decentralized Small-Signal Stability Criterion for Grid-Connected Converters - Simulation Code
+# Unified Decentralized Small-Signal Stability Criterion for Grid-Connected Converters - Code
 
 ## Overview
 This repository contains the simulation code for the paper *Unified Decentralized Small-Signal Stability Criterion for Grid-Connected Converters*. The simulations are built using Simulink in MATLAB 2024b. The repository is organized into three main folders:
